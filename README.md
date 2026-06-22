@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Step into the shadows where the rhythm takes control
+> I feel your body moving, baby, looking through my soul
+> We riding through the city with the neon on your face
+> I'm addicted to the danger and the magic of your grace
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
