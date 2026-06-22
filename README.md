@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Noche de pasión mística |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 22, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-pasion-mistica/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Noche de pasión mística](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-pasion-mistica/) |
+| **Get License** | [Get License For Noche de pasión mística](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-pasion-mistica/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Step into the shadows where the rhythm takes control
-> I feel your body moving, baby, looking through my soul
-> We riding through the city with the neon on your face
-> I'm addicted to the danger and the magic of your grace
+> Noche de pasión mística, tu cuerpo llama
+> Bajo la luna de Madrid, sin pausa ni drama
+> Tus labios saben a peligro y caramelo
+> Sayed te lleva al cielo en este viaje nuevo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
