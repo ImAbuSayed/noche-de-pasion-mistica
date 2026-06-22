@@ -15,7 +15,7 @@
 | **Written On** | June 22, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-pasion-mistica/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Noche de pasión mística](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-pasion-mistica/) |
+| **Get License** | [License this song: Noche de pasión mística](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-pasion-mistica/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `891ed9ddeb63425560b1f1f95f3b92853c499f9658e4ac8c205174ba1445919a` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `365fae53a83129bfa42be8f0d8d4f0b83e44edcd477c698eb084ff697215b605` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
