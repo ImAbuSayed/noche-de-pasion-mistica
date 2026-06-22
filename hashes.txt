@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de pasión mística
+
+This log tracks the cryptographic history and versioning for the song **Noche de pasión mística** (noche-de-pasion-mistica).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T06:08:55.496543 | `v1` | `891ed9ddeb63425560b1f1f95f3b92853c499f9658e4ac8c205174ba1445919a` | `15f43a4e0f5386bd9f6d1b4cf83cf45e889dc28e0efbcfc69dd90a8150cb4704` | `2026-06-22_noche-de-pasion-mistica-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
